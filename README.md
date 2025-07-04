@@ -26,8 +26,6 @@
 * Alt manager + custom login/logout keybind
 * Twitch chat integration
 * Spotify integration
-* Easy css access
-* Client css
-* Killsteak scripts
+* Killstreak scripts
 * Better discord RPC
 * And more...
