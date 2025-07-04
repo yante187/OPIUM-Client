@@ -29,5 +29,5 @@
 * Easy css access
 * Client css
 * Killsteak scripts
-* Better Discord RPC
+* Better discord RPC
 * And more...
