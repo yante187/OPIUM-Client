@@ -6,7 +6,7 @@
 
 # PATREON BENEFITS
 * Access to exclusive settings
-* 4 Patreon badges + 3 custom badges + 1 animated badge
+* 4 Patreon badges + 1 custom badge (across 3 accounts) / 1 animated badge (only for your account)
 * Max 3 linked accounts
 * Custom Discord role
 
